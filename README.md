@@ -2,6 +2,8 @@
 
 The Weather Discord Bot is a simple bot that integrates with a weather API to provide current weather information for specified cities. Users can interact with the bot through commands to retrieve temperature and weather conditions.
 
+<img src="./assets/img/weatherbot-example.png" align="center"/>
+
 ---
 
 ## Features
